@@ -2,9 +2,8 @@
 
 ## Hi there, I'm Xuan  ✨
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xuanner&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xuanner&show_icons=true&theme=radical)
+<img style="float:left; margin-right: 10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xuanner&layout=compact" width="45%">
+<img style="float:right" src="https://github-readme-stats.vercel.app/api?username=xuanner&show_icons=true&theme=radical" width="45%">
 
 
 
