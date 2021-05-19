@@ -1,4 +1,3 @@
-![banner](./assets/banner.jpg)
 
 ## Hi there, I'm Xuan  ✨
 
